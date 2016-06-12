@@ -464,7 +464,7 @@
     <string-array name="pref_camera_scenemode_entries" translatable="false">
         <item>@string/pref_camera_scenemode_entry_auto</item>
         <item>@string/pref_camera_scenemode_entry_hdr</item>
-        <item>@string/pref_camera_scenemode_entry_refocus</item>
+        <!--<item>@string/pref_camera_scenemode_entry_refocus</item>-->
         <item>@string/pref_camera_scenemode_entry_action</item>
         <item>@string/pref_camera_scenemode_entry_antimotionblur</item>
         <item>@string/pref_camera_scenemode_entry_aqua</item>
@@ -519,7 +519,7 @@
     <array name="scenemode_thumbnails" translatable="false">
         <item>@drawable/ic_scene_mode_auto</item>
         <item>@drawable/ic_scene_mode_hdr</item>
-        <item>@drawable/ic_scene_mode_refocus</item>
+        <!--<item>@drawable/ic_scene_mode_refocus</item>-->
         <item>@drawable/ic_scene_mode_action</item>
         <item>@drawable/ic_scene_mode_entry_antimotionblur</item>
         <item>@drawable/ic_scene_mode_entry_aqua</item>
@@ -590,7 +590,7 @@
     <string-array name="pref_camera_scenemode_entryvalues" translatable="false">
         <item>auto</item>
         <item>hdr</item>
-        <item>@string/pref_camera_advanced_feature_value_refocus_on</item>
+        <!--<item>@string/pref_camera_advanced_feature_value_refocus_on</item>-->
         <item>action</item>
         <item>anti-motion-blur</item>
         <item>aqua</item>
